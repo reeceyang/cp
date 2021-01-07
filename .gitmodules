@@ -1,0 +1,9 @@
+[submodule "USACO"]
+	path = USACO
+	url = https://github.com/reeceyang/USACO
+[submodule "codeforces"]
+	path = codeforces
+	url = https://github.com/reeceyang/codeforces
+[submodule "cses"]
+	path = cses
+	url = https://github.com/reeceyang/cses
